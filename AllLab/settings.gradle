@@ -1,0 +1,2 @@
+include ':app', ':port', ':click', ':intent', ':multiactivity', ':toastapp', ':dialog', ':notificationapp', ':accelerometer', ':camera', ':map', ':time', ':yandex'
+rootProject.name='AllLab'
